@@ -9,7 +9,7 @@ An SVG icon system of a mix of Chinese and Ancient Greek elements
 * Metal
 * Wood
 
-# Chinese Elements
+## Chinese Elements
 The five elements below are part of the Chinese elements theory
 
 * Fire
@@ -18,7 +18,7 @@ The five elements below are part of the Chinese elements theory
 * Metal
 * Wood
 
-# Ancient Greek Classical Elements
+## Ancient Greek Classical Elements
 The five elements below are part of the Ancient Greek elements theory
 
 * Earth
